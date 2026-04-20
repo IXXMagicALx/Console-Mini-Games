@@ -6,7 +6,7 @@
 
 \## 🎮 运行方式
 
-1\. 用 Visual Studio 打开 `METALGEAR\_REDEMPTION.csproj`
+1\. 用 Visual Studio 打开 `METALGEAR_REDEMPTION.csproj`
 
 2\. 点击“启动”或按 `F5` 运行项目
 
